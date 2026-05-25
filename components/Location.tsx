@@ -54,11 +54,11 @@ export const Location: React.FC = () => {
                 referrerPolicy="no-referrer-when-downgrade"
                 title="Cala Gamba Map"
                 className="grayscale group-hover:grayscale-0 transition-all duration-700"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.137837837838!2d2.6931!3d39.5495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x129793976854109b%3A0x402af6ed721e0e0!2sCarrer%20de%20Bartomeu%20Castell%2C%2011%2C%2007007%20Palma%2C%20Illes%20Balears%2C%20Spain!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus">
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.137837837838!2d2.6931!3d39.5495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x129793976854109b%3A0x402af6ed721e0e0!2sCarrer%20de%20Bartomeu%20Castell%2C%2013%2C%2007007%20Palma%2C%20Illes%20Balears%2C%20Spain!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus">
             </iframe>
             
             <div className="absolute top-4 right-4 bg-white/90 backdrop-blur px-4 py-2 rounded shadow text-xs font-bold text-brand-dark">
-              C. Bartomeu Castell, 11
+              C. Bartomeu Castell, 13
             </div>
           </div>
         </div>

@@ -73,7 +73,7 @@ export const TRANSLATIONS: Record<Language, TranslationStructure> = {
     },
     floating: {
       price_label: "Precio",
-      price_value: "1.349.000 €",
+      price_value: "1.299.000 €",
       contact_button: "Contactar"
     },
     footer: {
@@ -155,7 +155,7 @@ export const TRANSLATIONS: Record<Language, TranslationStructure> = {
     },
     floating: {
       price_label: "Price",
-      price_value: "€1,349,000",
+      price_value: "€1,299,000",
       contact_button: "Contact"
     },
     footer: {
@@ -237,7 +237,7 @@ export const TRANSLATIONS: Record<Language, TranslationStructure> = {
     },
     floating: {
       price_label: "Preis",
-      price_value: "1.349.000 €",
+      price_value: "1.299.000 €",
       contact_button: "Kontaktieren"
     },
     footer: {
@@ -319,7 +319,7 @@ export const TRANSLATIONS: Record<Language, TranslationStructure> = {
     },
     floating: {
       price_label: "Prix",
-      price_value: "1 349 000 €",
+      price_value: "1 299 000 €",
       contact_button: "Contacter"
     },
     footer: {
@@ -401,7 +401,7 @@ export const TRANSLATIONS: Record<Language, TranslationStructure> = {
     },
     floating: {
       price_label: "Pris",
-      price_value: "1 349 000 €",
+      price_value: "1 299 000 €",
       contact_button: "Kontakta"
     },
     footer: {
